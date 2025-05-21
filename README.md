@@ -8,10 +8,10 @@
 
 ## 🚀 Getting Started
 
-Add this package as a development dependency:
+Add this package as a dev dependency:
 
 ```bash
-dart pub add --dev halildurmus_lints
+dart pub add dev:halildurmus_lints
 ```
 
 Then, include the relevant lint rules in your `analysis_options.yaml`:
