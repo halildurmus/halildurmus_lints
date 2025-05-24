@@ -1,7 +1,7 @@
 name: halildurmus_lints
 description: Recommended lints for Dart and Flutter projects to enforce good
   coding practices.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/halildurmus/halildurmus_lints
 
 topics:
